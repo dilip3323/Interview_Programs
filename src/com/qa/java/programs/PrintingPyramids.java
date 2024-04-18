@@ -30,7 +30,7 @@ public class PrintingPyramids {
 		
 	}
 
-	/*
+	
 	for (int i = noOfRows; i > 0; i--)
     {
         //Printing i spaces at the beginning of each row
@@ -52,6 +52,6 @@ public class PrintingPyramids {
         //Incrementing the rowCount
 
         rowCount++;
-    }*/
+    }
 }
 
